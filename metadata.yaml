@@ -1,0 +1,38 @@
+_repo: Trains-of-Recollection-Drawn-from-Fifty-Years-of-Railway-Service-in-Scotland-and-Canada-and-t__63059
+_version: 0.0.1
+alternative_title: "Trains of Recollection\r\nDrawn from 50 Years of Railway Service\
+  \ in Scotland and Canada, and told to Arthur Hawkes"
+creator:
+  author:
+    agent_name: Hanna, D. B. (David Blyth)
+    alias: Hanna, David Blyth
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '52249'
+    url: http://www.gutenberg.org/2009/agents/52249
+    wikipedia: https://en.wikipedia.org/wiki/David_Blyth_Hanna
+  editor:
+    agent_name: Hawkes, Arthur
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '52250'
+    url: http://www.gutenberg.org/2009/agents/52250
+description: ''
+gutenberg_issued: '2020-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63059'
+  lccn: a25000546
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian National Railways'
+- !lcc 'HE'
+- !lcsh 'Railroads -- Canada'
+- !lcsh 'Railroads -- Scotland'
+- GITenberg
+title: "Trains of Recollection\r\nDrawn from Fifty Years of Railway Service in Scotland\
+  \ and Canada, and told to Arthur Hawkes"
+url: http://www.gutenberg.org/ebooks/63059
